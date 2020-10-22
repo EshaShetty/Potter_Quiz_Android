@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Potter Quiz Android</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Harry received an invisibility cloak on his 11th birthday.</string>
+    <string name="question_2">Professor McGonagal can turn into the toad animangi.</string>
+    <string name="question_3">Winky was a death eater\'s house elf.</string>
+    <string name="question_4">Sirius Black belonged in Slytherin House.</string>
+    <string name="question_5">Hermoine used the Alohomora spell to fix Harry\'s glasses.</string>
+    <string name="question_6">Draco eventually became a Death Eater at the end.</string>
+    <string name="question_7">There were 6 Horcurxes and Harry destroyed them all.</string>
+    <string name="question_8">Neville Longbottom could have been the chosen one.</string>
+    <string name="question_9">Luna Lovegood was teased as Looney.</string>
+    <string name="question_10">Tom Riddle was Harry\'s best friend</string>
+    <string name="question_11">Cedric Diggory won the Triwizard Tournament.</string>
+    <string name="question_12">Mooney, Padfoot and Prongs were the creators of the Maruders Map.</string>
+    <string name="question_13">Barty Crouch disguised as Moody during Harry\'s fourth year.</string>
+
 </resources>
